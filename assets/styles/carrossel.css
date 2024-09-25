@@ -83,6 +83,30 @@
     padding: 1em 2.2em;
 }
 
+@media screen and (max-width: 320px) {
+
+    .descricao__titulo {
+        font-size: 14px;
+    }
+
+    .descricao__titulo-livro {
+        font-size: 16px;
+    }
+
+    .descricao__texto {
+        font-size: 12px;
+    }
+
+    .descricao__img {
+        width: 50%;
+    }
+
+    .botoes__ancora {
+        font-size: 14px;
+        padding: 1em 1.5em;
+    }
+
+}
 
 @media screen and (min-width: 1024px) {
 
